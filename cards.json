@@ -111,7 +111,7 @@
     "type": "Mana",
     "cost": "0"
   },
-  "001": {
+  "A001": {
     "id": "001",
     "isToken": false,
     "face": {
@@ -127,7 +127,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "002": {
+  "A002": {
     "id": "002",
     "isToken": false,
     "face": {
@@ -143,7 +143,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "003": {
+  "A003": {
     "id": "003",
     "isToken": false,
     "face": {
@@ -159,7 +159,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "004": {
+  "A004": {
     "id": "004",
     "isToken": false,
     "face": {
@@ -175,7 +175,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "005": {
+  "A005": {
     "id": "005",
     "isToken": false,
     "face": {
@@ -191,7 +191,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "006": {
+  "A006": {
     "id": "006",
     "isToken": false,
     "face": {
@@ -207,7 +207,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "007": {
+  "A007": {
     "id": "007",
     "isToken": false,
     "face": {
@@ -223,7 +223,7 @@
     "type": "Campo",
     "cost": "3"
   },
-  "008": {
+  "A008": {
     "id": "008",
     "isToken": false,
     "face": {
@@ -239,7 +239,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "009": {
+  "A009": {
     "id": "009",
     "isToken": false,
     "face": {
@@ -255,7 +255,7 @@
     "type": "Personagem",
     "cost": "5"
   },
-  "010": {
+  "A010": {
     "id": "010",
     "isToken": false,
     "face": {
@@ -271,7 +271,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "011": {
+  "A011": {
     "id": "011",
     "isToken": false,
     "face": {
@@ -287,7 +287,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "012": {
+  "A012": {
     "id": "012",
     "isToken": false,
     "face": {
@@ -303,7 +303,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "013": {
+  "A013": {
     "id": "013",
     "isToken": false,
     "face": {
@@ -319,7 +319,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "014": {
+  "A014": {
     "id": "014",
     "isToken": false,
     "face": {
@@ -335,7 +335,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "015": {
+  "A015": {
     "id": "015",
     "isToken": false,
     "face": {
@@ -351,7 +351,7 @@
     "type": "Suporte",
     "cost": "3"
   },
-  "016": {
+  "A016": {
     "id": "016",
     "isToken": false,
     "face": {
@@ -367,7 +367,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "017": {
+  "A017": {
     "id": "017",
     "isToken": false,
     "face": {
@@ -383,7 +383,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "018": {
+  "A018": {
     "id": "018",
     "isToken": false,
     "face": {
@@ -399,7 +399,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "019": {
+  "A019": {
     "id": "019",
     "isToken": false,
     "face": {
@@ -415,7 +415,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "020": {
+  "A020": {
     "id": "020",
     "isToken": false,
     "face": {
@@ -431,7 +431,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "021": {
+  "A021": {
     "id": "021",
     "isToken": false,
     "face": {
@@ -447,7 +447,7 @@
     "type": "Campo",
     "cost": "3"
   },
-  "022": {
+  "A022": {
     "id": "022",
     "isToken": false,
     "face": {
@@ -463,7 +463,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "023": {
+  "A023": {
     "id": "023",
     "isToken": false,
     "face": {
@@ -479,7 +479,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "024": {
+  "A024": {
     "id": "024",
     "isToken": false,
     "face": {
@@ -495,7 +495,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "025": {
+  "A025": {
     "id": "025",
     "isToken": false,
     "face": {
@@ -511,7 +511,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "026": {
+  "A026": {
     "id": "026",
     "isToken": false,
     "face": {
@@ -527,7 +527,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "027": {
+  "A027": {
     "id": "027",
     "isToken": false,
     "face": {
@@ -543,7 +543,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "028": {
+  "A028": {
     "id": "028",
     "isToken": false,
     "face": {
@@ -559,7 +559,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "029": {
+  "A029": {
     "id": "029",
     "isToken": false,
     "face": {
@@ -575,7 +575,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "030": {
+  "A030": {
     "id": "030",
     "isToken": false,
     "face": {
@@ -591,7 +591,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "031": {
+  "A031": {
     "id": "031",
     "isToken": false,
     "face": {
@@ -607,7 +607,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "032": {
+  "A032": {
     "id": "032",
     "isToken": false,
     "face": {
@@ -623,7 +623,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "033": {
+  "A033": {
     "id": "033",
     "isToken": false,
     "face": {
@@ -639,7 +639,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "034": {
+  "A034": {
     "id": "034",
     "isToken": false,
     "face": {
@@ -655,7 +655,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "035": {
+  "A035": {
     "id": "035",
     "isToken": false,
     "face": {
@@ -671,7 +671,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "036": {
+  "A036": {
     "id": "036",
     "isToken": false,
     "face": {
@@ -687,7 +687,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "037": {
+  "A037": {
     "id": "037",
     "isToken": false,
     "face": {
@@ -703,7 +703,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "038": {
+  "A038": {
     "id": "038",
     "isToken": false,
     "face": {
@@ -719,7 +719,7 @@
     "type": "Campo",
     "cost": "3"
   },
-  "039": {
+  "A039": {
     "id": "039",
     "isToken": false,
     "face": {
@@ -735,7 +735,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "040": {
+  "A040": {
     "id": "040",
     "isToken": false,
     "face": {
@@ -751,7 +751,7 @@
     "type": "Suporte",
     "cost": "3"
   },
-  "041": {
+  "A041": {
     "id": "041",
     "isToken": false,
     "face": {
@@ -767,7 +767,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "042": {
+  "A042": {
     "id": "042",
     "isToken": false,
     "face": {
@@ -783,7 +783,7 @@
     "type": "Equipamento",
     "cost": "1"
   },
-  "043": {
+  "A043": {
     "id": "043",
     "isToken": false,
     "face": {
@@ -799,7 +799,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "044": {
+  "A044": {
     "id": "044",
     "isToken": false,
     "face": {
@@ -815,7 +815,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "045": {
+  "A045": {
     "id": "045",
     "isToken": false,
     "face": {
@@ -831,7 +831,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "046": {
+  "A046": {
     "id": "046",
     "isToken": false,
     "face": {
@@ -847,7 +847,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "047": {
+  "A047": {
     "id": "047",
     "isToken": false,
     "face": {
@@ -863,7 +863,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "048": {
+  "A048": {
     "id": "048",
     "isToken": false,
     "face": {
@@ -879,7 +879,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "049": {
+  "A049": {
     "id": "049",
     "isToken": false,
     "face": {
@@ -895,7 +895,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "050": {
+  "A050": {
     "id": "050",
     "isToken": false,
     "face": {
@@ -911,7 +911,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "051": {
+  "A051": {
     "id": "051",
     "isToken": false,
     "face": {
@@ -927,7 +927,7 @@
     "type": "Personagem",
     "cost": "5"
   },
-  "052": {
+  "A052": {
     "id": "052",
     "isToken": false,
     "face": {
@@ -943,7 +943,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "053": {
+  "A053": {
     "id": "053",
     "isToken": false,
     "face": {
@@ -959,7 +959,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "054": {
+  "A054": {
     "id": "054",
     "isToken": false,
     "face": {
@@ -975,7 +975,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "055": {
+  "A055": {
     "id": "055",
     "isToken": false,
     "face": {
@@ -991,7 +991,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "056": {
+  "A056": {
     "id": "056",
     "isToken": false,
     "face": {
@@ -1007,7 +1007,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "057": {
+  "A057": {
     "id": "057",
     "isToken": false,
     "face": {
@@ -1023,7 +1023,7 @@
     "type": "Personagem",
     "cost": "5"
   },
-  "058": {
+  "A058": {
     "id": "058",
     "isToken": false,
     "face": {
@@ -1039,7 +1039,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "059": {
+  "A059": {
     "id": "059",
     "isToken": false,
     "face": {
@@ -1055,7 +1055,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "060": {
+  "A060": {
     "id": "060",
     "isToken": false,
     "face": {
@@ -1071,7 +1071,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "061": {
+  "A061": {
     "id": "061",
     "isToken": false,
     "face": {
@@ -1087,7 +1087,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "062": {
+  "A062": {
     "id": "062",
     "isToken": false,
     "face": {
@@ -1103,7 +1103,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "063": {
+  "A063": {
     "id": "063",
     "isToken": false,
     "face": {
@@ -1119,7 +1119,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "064": {
+  "A064": {
     "id": "064",
     "isToken": false,
     "face": {
@@ -1135,7 +1135,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "065": {
+  "A065": {
     "id": "065",
     "isToken": false,
     "face": {
@@ -1151,7 +1151,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "066": {
+  "A066": {
     "id": "066",
     "isToken": false,
     "face": {
@@ -1167,7 +1167,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "067": {
+  "A067": {
     "id": "067",
     "isToken": false,
     "face": {
@@ -1183,7 +1183,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "068": {
+  "A068": {
     "id": "068",
     "isToken": false,
     "face": {
@@ -1199,7 +1199,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "069": {
+  "A069": {
     "id": "069",
     "isToken": false,
     "face": {
@@ -1230,7 +1230,7 @@
     "type": "Personagem",
     "cost": "5"
   },
-  "070": {
+  "A070": {
     "id": "070",
     "isToken": false,
     "face": {
@@ -1246,7 +1246,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "071": {
+  "A071": {
     "id": "071",
     "isToken": false,
     "face": {
@@ -1262,7 +1262,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "072": {
+  "A072": {
     "id": "072",
     "isToken": false,
     "face": {
@@ -1278,7 +1278,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "073": {
+  "A073": {
     "id": "073",
     "isToken": false,
     "face": {
@@ -1294,7 +1294,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "074": {
+  "A074": {
     "id": "074",
     "isToken": false,
     "face": {
@@ -1310,7 +1310,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "075": {
+  "A075": {
     "id": "075",
     "isToken": false,
     "face": {
@@ -1326,7 +1326,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "076": {
+  "A076": {
     "id": "076",
     "isToken": false,
     "face": {
@@ -1342,7 +1342,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "077": {
+  "A077": {
     "id": "077",
     "isToken": false,
     "face": {
@@ -1358,7 +1358,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "078": {
+  "A078": {
     "id": "078",
     "isToken": false,
     "face": {
@@ -1374,7 +1374,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "079": {
+  "A079": {
     "id": "079",
     "isToken": false,
     "face": {
@@ -1390,7 +1390,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "080": {
+  "A080": {
     "id": "080",
     "isToken": false,
     "face": {
@@ -1406,7 +1406,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "081": {
+  "A081": {
     "id": "081",
     "isToken": false,
     "face": {
@@ -1422,7 +1422,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "081A": {
+  "A081A": {
     "id": "081A",
     "isToken": false,
     "face": {
@@ -1438,7 +1438,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "082": {
+  "A082": {
     "id": "082",
     "isToken": false,
     "face": {
@@ -1454,7 +1454,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "083": {
+  "A083": {
     "id": "083",
     "isToken": false,
     "face": {
@@ -1470,7 +1470,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "084": {
+  "A084": {
     "id": "084",
     "isToken": false,
     "face": {
@@ -1486,7 +1486,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "085": {
+  "A085": {
     "id": "085",
     "isToken": false,
     "face": {
@@ -1502,7 +1502,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "086": {
+  "A086": {
     "id": "086",
     "isToken": false,
     "face": {
@@ -1518,7 +1518,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "087": {
+  "A087": {
     "id": "087",
     "isToken": false,
     "face": {
@@ -1534,7 +1534,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "088": {
+  "A088": {
     "id": "088",
     "isToken": false,
     "face": {
@@ -1550,7 +1550,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "089": {
+  "A089": {
     "id": "089",
     "isToken": false,
     "face": {
@@ -1566,7 +1566,7 @@
     "type": "Personagem",
     "cost": "5"
   },
-  "090": {
+  "A090": {
     "id": "090",
     "isToken": false,
     "face": {
@@ -1582,7 +1582,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "091": {
+  "A091": {
     "id": "091",
     "isToken": false,
     "face": {
@@ -1598,7 +1598,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "092": {
+  "A092": {
     "id": "092",
     "isToken": false,
     "face": {
@@ -1614,7 +1614,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "093": {
+  "A093": {
     "id": "093",
     "isToken": false,
     "face": {
@@ -1630,7 +1630,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "094": {
+  "A094": {
     "id": "094",
     "isToken": false,
     "face": {
@@ -1646,7 +1646,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "095": {
+  "A095": {
     "id": "095",
     "isToken": false,
     "face": {
@@ -1662,7 +1662,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "096": {
+  "A096": {
     "id": "096",
     "isToken": false,
     "face": {
@@ -1678,7 +1678,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "097": {
+  "A097": {
     "id": "097",
     "isToken": false,
     "face": {
@@ -1694,7 +1694,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "098": {
+  "A098": {
     "id": "098",
     "isToken": false,
     "face": {
@@ -1710,7 +1710,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "099": {
+  "A099": {
     "id": "099",
     "isToken": false,
     "face": {
@@ -1726,7 +1726,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "100": {
+  "A100": {
     "id": "100",
     "isToken": false,
     "face": {
@@ -1742,7 +1742,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "101": {
+  "A101": {
     "id": "101",
     "isToken": false,
     "face": {
@@ -1758,7 +1758,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "102": {
+  "A102": {
     "id": "102",
     "isToken": false,
     "face": {
@@ -1774,7 +1774,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "103": {
+  "A103": {
     "id": "103",
     "isToken": false,
     "face": {
@@ -1790,7 +1790,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "104": {
+  "A104": {
     "id": "104",
     "isToken": false,
     "face": {
@@ -1806,7 +1806,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "105": {
+  "A105": {
     "id": "105",
     "isToken": false,
     "face": {
@@ -1822,23 +1822,23 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "106": {
+  "A106": {
     "id": "106",
     "isToken": false,
     "face": {
       "front": {
-        "name": "scensão do Escolhido",
+        "name": "ascensão do Escolhido",
         "type": "Suporte",
         "cost": "1",
         "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/106.png",
         "isHorizontal": false
       }
     },
-    "name": "scensão do Escolhido",
+    "name": "ascensão do Escolhido",
     "type": "Suporte",
     "cost": "1"
   },
-  "107": {
+  "A107": {
     "id": "107",
     "isToken": false,
     "face": {
@@ -1854,7 +1854,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "108": {
+  "A108": {
     "id": "108",
     "isToken": false,
     "face": {
@@ -1870,7 +1870,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "109": {
+  "A109": {
     "id": "109",
     "isToken": false,
     "face": {
@@ -1886,7 +1886,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "110": {
+  "A110": {
     "id": "110",
     "isToken": false,
     "face": {
@@ -1902,7 +1902,7 @@
     "type": "Equipamento",
     "cost": "2"
   },
-  "111": {
+  "A111": {
     "id": "111",
     "isToken": false,
     "face": {
@@ -1918,7 +1918,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "112": {
+  "A112": {
     "id": "112",
     "isToken": false,
     "face": {
@@ -1934,7 +1934,7 @@
     "type": "Suporte",
     "cost": "3"
   },
-  "113": {
+  "A113": {
     "id": "113",
     "isToken": false,
     "face": {
@@ -1950,7 +1950,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "114": {
+  "A114": {
     "id": "114",
     "isToken": false,
     "face": {
@@ -1966,7 +1966,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "115": {
+  "A115": {
     "id": "115",
     "isToken": false,
     "face": {
@@ -1982,7 +1982,7 @@
     "type": "Suporte",
     "cost": "5"
   },
-  "116": {
+  "A116": {
     "id": "116",
     "isToken": false,
     "face": {
@@ -1998,7 +1998,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "117": {
+  "A117": {
     "id": "117",
     "isToken": false,
     "face": {
@@ -2014,7 +2014,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "118": {
+  "A118": {
     "id": "118",
     "isToken": false,
     "face": {
@@ -2030,7 +2030,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "119": {
+  "A119": {
     "id": "119",
     "isToken": false,
     "face": {
@@ -2046,7 +2046,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "120": {
+  "A120": {
     "id": "120",
     "isToken": false,
     "face": {
@@ -2062,7 +2062,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "121": {
+  "A121": {
     "id": "121",
     "isToken": false,
     "face": {
@@ -2078,7 +2078,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "122": {
+  "A122": {
     "id": "122",
     "isToken": false,
     "face": {
@@ -2094,7 +2094,7 @@
     "type": "Equipamento",
     "cost": "2"
   },
-  "123": {
+  "A123": {
     "id": "123",
     "isToken": false,
     "face": {
@@ -2110,7 +2110,7 @@
     "type": "Equipamento",
     "cost": "2"
   },
-  "124": {
+  "A124": {
     "id": "124",
     "isToken": false,
     "face": {
@@ -2126,7 +2126,7 @@
     "type": "Equipamento",
     "cost": "2"
   },
-  "125": {
+  "A125": {
     "id": "125",
     "isToken": false,
     "face": {
@@ -2142,7 +2142,7 @@
     "type": "Equipamento",
     "cost": "1"
   },
-  "126": {
+  "A126": {
     "id": "126",
     "isToken": false,
     "face": {
@@ -2158,7 +2158,7 @@
     "type": "Equipamento",
     "cost": "2"
   },
-  "127": {
+  "A127": {
     "id": "127",
     "isToken": false,
     "face": {
@@ -2174,7 +2174,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "128": {
+  "A128": {
     "id": "128",
     "isToken": false,
     "face": {
@@ -2190,7 +2190,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "129": {
+  "A129": {
     "id": "129",
     "isToken": false,
     "face": {
@@ -2206,7 +2206,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "130": {
+  "A130": {
     "id": "130",
     "isToken": false,
     "face": {
@@ -2222,7 +2222,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "131": {
+  "A131": {
     "id": "131",
     "isToken": false,
     "face": {
@@ -2238,7 +2238,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "132": {
+  "A132": {
     "id": "132",
     "isToken": false,
     "face": {
@@ -2254,7 +2254,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "133": {
+  "A133": {
     "id": "133",
     "isToken": false,
     "face": {
@@ -2270,7 +2270,7 @@
     "type": "Personagem",
     "cost": "1" 
   },
-  "134": {
+  "A134": {
     "id": "134",
     "isToken": false,
     "face": {
@@ -2286,7 +2286,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "135": {
+  "A135": {
     "id": "135",
     "isToken": false,
     "face": {
@@ -2302,7 +2302,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "B001": {
+  "A136": {
     "id": "136",
     "isToken": false,
     "face": {
@@ -2318,7 +2318,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "B002": {
+  "A137": {
     "id": "137",
     "isToken": false,
     "face": {
@@ -2334,7 +2334,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "B003": {
+  "A138": {
     "id": "138",
     "isToken": false,
     "face": {
@@ -2350,7 +2350,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "B004": {
+  "A139": {
     "id": "139",
     "isToken": false,
     "face": {
@@ -2366,7 +2366,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "B005": {
+  "A140": {
     "id": "140",
     "isToken": false,
     "face": {
@@ -2382,7 +2382,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "B006": {
+  "A141": {
     "id": "141",
     "isToken": false,
     "face": {
@@ -2398,7 +2398,7 @@
     "type": "Campo",
     "cost": "2"
   },  
-  "B007": {
+  "142": {
     "id": "142",
     "isToken": false,
     "face": {
@@ -2414,7 +2414,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "B008": {
+  "A143": {
     "id": "143",
     "isToken": false,
     "face": {
@@ -2430,7 +2430,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "B009": {
+  "A144": {
     "id": "144",
     "isToken": false,
     "face": {
@@ -2446,7 +2446,7 @@
     "type": "Suporte",
     "cost": "1"
   },
-  "B010": {
+  "A145": {
     "id": "145",
     "isToken": false,
     "face": {
@@ -2462,7 +2462,7 @@
     "type": "Campo",
     "cost": "2"
   },
-  "B011": {
+  "A146": {
     "id": "146",
     "isToken": false,
     "face": {
@@ -2478,7 +2478,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "B012": {
+  "A147": {
     "id": "147",
     "isToken": false,
     "face": {
@@ -2494,7 +2494,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "B013": {
+  "A149": {
     "id": "149",
     "isToken": false,
     "face": {
@@ -2510,7 +2510,7 @@
     "type": "Personagem",
     "cost": "4"
   },
-  "B014": {
+  "A150": {
     "id": "150",
     "isToken": false,
     "face": {
@@ -2526,7 +2526,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "B015": {
+  "A151": {
     "id": "151",
     "isToken": false,
     "face": {
@@ -2542,7 +2542,7 @@
     "type": "Personagem",
     "cost": "5"
   },
-  "B016": {
+  "A152": {
     "id": "152",
     "isToken": false,
     "face": {
@@ -2558,7 +2558,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "B017": {
+  "A157": {
     "id": "157",
     "isToken": false,
     "face": {
@@ -2574,7 +2574,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "B018": {
+  "A160": {
     "id": "160",
     "isToken": false,
     "face": {
@@ -2590,7 +2590,7 @@
     "type": "Suporte",
     "cost": "2"
   },
-  "B019": {
+  "A171": {
     "id": "171",
     "isToken": false,
     "face": {
@@ -2606,7 +2606,7 @@
     "type": "Personagem",
     "cost": "5"
   },
-  "B020": {
+  "A172": {
     "id": "172",
     "isToken": false,
     "face": {
@@ -2622,7 +2622,7 @@
     "type": "Personagem",
     "cost": "1"
   },
-  "B021": {
+  "A173": {
     "id": "173",
     "isToken": false,
     "face": {
@@ -2638,7 +2638,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "B022": {
+  "A174": {
     "id": "174",
     "isToken": false,
     "face": {
@@ -2654,7 +2654,7 @@
     "type": "Personagem",
     "cost": "2"
   },
-  "B023": {
+  "A175": {
     "id": "175",
     "isToken": false,
     "face": {
@@ -2670,7 +2670,7 @@
     "type": "Personagem",
     "cost": "3"
   },
-  "B024": {
+  "A176": {
     "id": "176",
     "isToken": false,
     "face": {
