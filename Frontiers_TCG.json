@@ -1,15 +1,15 @@
 {
   "name": "Frontiers TCG",
-  "menuBackgroundImage": "[backgroundlink]",
+  "menuBackgroundImage": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/logo.png",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "[deckListlink]"
+    "decksUrl": "https://frontierstcg.github.io/Frontiers-TCG-Arena/estruturais.json"
   },
   "customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "[cardslink]",
-    "cardBack": "[cardBacklink]",
+    "dataUrl": "https://frontierstcg.github.io/Frontiers-TCG-Arena/cards.json",
+    "cardBack": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cardback.png'",
     "version": 1
   },
   "deckBuilding": {
@@ -53,32 +53,32 @@
         {
           "id": "ice-token",
           "name": "Congelado",
-          "image": "[effectlink]/CONGELADO.png"
+          "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/effects//CONGELADO.png"
         },
         {
           "id": "burn-token",
           "name": "Queimando",
-          "image": "[effectlink]/QUEIMANDO.png"
+          "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/effects//QUEIMANDO.png"
         },
         {
           "id": "paralyze-token",
           "name": "Paralisado",
-          "image": "[effectlink]/PARALISADO.png"
+          "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/effects//PARALISADO.png"
         },
         {
           "id": "poison-token",
           "name": "Envenenado",
-          "image": "[effectlink]/ENVENENADO.png"
+          "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/effects//ENVENENADO.png"
         },
         {
           "id": "silence-token",
           "name": "Silenciado",
-          "image": "[effectlink]/SILENCIADO.png"
+          "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/effects//SILENCIADO.png"
         },
         {
           "id": "weakned-token",
           "name": "Enfraquecido",
-          "image": "[effectlink]/ENFRAQUECIDO.png"
+          "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/effects//ENFRAQUECIDO.png"
         }
       ],
       "countersStartingValues": [
