@@ -773,14 +773,14 @@
     "face": {
       "front": {
         "name": "Proteção do Senhor da Noite",
-        "type": "Equipamento",
+        "type": "Resposta",
         "cost": "1",
         "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A042.png",
         "isHorizontal": false
       }
     },
     "name": "Proteção do Senhor da Noite",
-    "type": "Equipamento",
+    "type": "Resposta",
     "cost": "1"
   },
   "A043": {
