@@ -1223,7 +1223,7 @@
         "name": "Sky Guardian - O Sentinela",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A069.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A069A.png",
         "isHorizontal": false
       }
     },
@@ -1431,7 +1431,7 @@
         "name": "Ártemis, a Deusa da Lua",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A081.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A081A.png",
         "isHorizontal": false
       }
     },
@@ -1460,14 +1460,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "xel, o Grande Pistoleiro",
+        "name": "Axel, o Grande Pistoleiro",
         "type": "Personagem",
         "cost": "3",
         "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A083.png",
         "isHorizontal": false
       }
     },
-    "name": "xel, o Grande Pistoleiro",
+    "name": "Axel, o Grande Pistoleiro",
     "type": "Personagem",
     "cost": "3"
   },
