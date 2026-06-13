@@ -9,7 +9,7 @@
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://frontierstcg.github.io/Frontiers-TCG-Arena/cards.json",
-    "cardBack": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cardback.png'",
+    "cardBack": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cardback.png",
     "version": 1
   },
   "deckBuilding": {
