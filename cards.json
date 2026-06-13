@@ -112,14 +112,14 @@
     "cost": "0"
   },
   "A001": {
-    "id": "001",
+    "id": "A001",
     "isToken": false,
     "face": {
       "front": {
         "name": "Cranell, a Líder da Brigada Estelar",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/001.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A001.png",
         "isHorizontal": false
       }
     },
@@ -128,14 +128,14 @@
     "cost": "3"
   },
   "A002": {
-    "id": "002",
+    "id": "A002",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ginna, a Assassina da Brigada Estelar",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/002.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A002.png",
         "isHorizontal": false
       }
     },
@@ -144,14 +144,14 @@
     "cost": "2"
   },
   "A003": {
-    "id": "003",
+    "id": "A003",
     "isToken": false,
     "face": {
       "front": {
         "name": "Rina, a Curandeira da Brigada Estelar",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/003.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A003.png",
         "isHorizontal": false
       }
     },
@@ -160,14 +160,14 @@
     "cost": "2"
   },
   "A004": {
-    "id": "004",
+    "id": "A004",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dielan, o Mestre de Armas da Brigada Estelar",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/004.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A004.png",
         "isHorizontal": false
       }
     },
@@ -176,14 +176,14 @@
     "cost": "3"
   },
   "A005": {
-    "id": "005",
+    "id": "A005",
     "isToken": false,
     "face": {
       "front": {
         "name": "Leneh, a Engenheira da Brigada Estelar",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/005.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A005.png",
         "isHorizontal": false
       }
     },
@@ -192,14 +192,14 @@
     "cost": "2"
   },
   "A006": {
-    "id": "006",
+    "id": "A006",
     "isToken": false,
     "face": {
       "front": {
         "name": "Drone da Brigada Estelar",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/006.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A006.png",
         "isHorizontal": false
       }
     },
@@ -208,14 +208,14 @@
     "cost": "1"
   },
   "A007": {
-    "id": "007",
+    "id": "A007",
     "isToken": false,
     "face": {
       "front": {
         "name": "Campo de Batalha da Brigada",
         "type": "Campo",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/007.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A007.png",
         "isHorizontal": false
       }
     },
@@ -224,14 +224,14 @@
     "cost": "3"
   },
   "A008": {
-    "id": "008",
+    "id": "A008",
     "isToken": false,
     "face": {
       "front": {
         "name": "Táticas de Guerra da Brigada",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/008.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A008.png",
         "isHorizontal": false
       }
     },
@@ -240,14 +240,14 @@
     "cost": "1"
   },
   "A009": {
-    "id": "009",
+    "id": "A009",
     "isToken": false,
     "face": {
       "front": {
         "name": "staroth, o Duque da Desolação dos Cavaleiros Infernais",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/009.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A009.png",
         "isHorizontal": false
       }
     },
@@ -256,14 +256,14 @@
     "cost": "5"
   },
   "A010": {
-    "id": "010",
+    "id": "A010",
     "isToken": false,
     "face": {
       "front": {
         "name": "Zariel, o Duque da Guerra dos Cavaleiros Infernais",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/010.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A010.png",
         "isHorizontal": false
       }
     },
@@ -272,14 +272,14 @@
     "cost": "4"
   },
   "A011": {
-    "id": "011",
+    "id": "A011",
     "isToken": false,
     "face": {
       "front": {
         "name": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/011.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A011.png",
         "isHorizontal": false
       }
     },
@@ -288,14 +288,14 @@
     "cost": "4"
   },
   "A012": {
-    "id": "012",
+    "id": "A012",
     "isToken": false,
     "face": {
       "front": {
         "name": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/012.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A012.png",
         "isHorizontal": false
       }
     },
@@ -304,14 +304,14 @@
     "cost": "4"
   },
   "A013": {
-    "id": "013",
+    "id": "A013",
     "isToken": false,
     "face": {
       "front": {
         "name": "Karon, o Vassalo dos Cavaleiros Infernais",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/013.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A013.png",
         "isHorizontal": false
       }
     },
@@ -320,14 +320,14 @@
     "cost": "2"
   },
   "A014": {
-    "id": "014",
+    "id": "A014",
     "isToken": false,
     "face": {
       "front": {
         "name": "Varud, o Vassalo dos Cavaleiros Infernais",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/014.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A014.png",
         "isHorizontal": false
       }
     },
@@ -336,14 +336,14 @@
     "cost": "2"
   },
   "A015": {
-    "id": "015",
+    "id": "A015",
     "isToken": false,
     "face": {
       "front": {
         "name": "Chamas da Discórdia dos Cavaleiros Infernais",
         "type": "Suporte",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/015.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A015.png",
         "isHorizontal": false
       }
     },
@@ -352,14 +352,14 @@
     "cost": "3"
   },
   "A016": {
-    "id": "016",
+    "id": "A016",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ordem de Ataque dos Cavaleiros Infernais",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/016.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A016.png",
         "isHorizontal": false
       }
     },
@@ -368,14 +368,14 @@
     "cost": "2"
   },
   "A017": {
-    "id": "017",
+    "id": "A017",
     "isToken": false,
     "face": {
       "front": {
         "name": "Thomas, o Mago do Relâmpago Dourado",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/017.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A017.png",
         "isHorizontal": false
       }
     },
@@ -384,14 +384,14 @@
     "cost": "3"
   },
   "A018": {
-    "id": "018",
+    "id": "A018",
     "isToken": false,
     "face": {
       "front": {
         "name": "Marie, a Bruxa do Relâmpago Dourado",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/018.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A018.png",
         "isHorizontal": false
       }
     },
@@ -400,14 +400,14 @@
     "cost": "3"
   },
   "A019": {
-    "id": "019",
+    "id": "A019",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ciel, a Aprendiz do Relâmpago Dourado",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/019.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A019.png",
         "isHorizontal": false
       }
     },
@@ -416,14 +416,14 @@
     "cost": "2"
   },
   "A020": {
-    "id": "020",
+    "id": "A020",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ciel, a Arquimaga do Relâmpago Dourado",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/020.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A020.png",
         "isHorizontal": false
       }
     },
@@ -432,14 +432,14 @@
     "cost": "4"
   },
   "A021": {
-    "id": "021",
+    "id": "A021",
     "isToken": false,
     "face": {
       "front": {
         "name": " Cabana na Floresta",
         "type": "Campo",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/021.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A021.png",
         "isHorizontal": false
       }
     },
@@ -448,14 +448,14 @@
     "cost": "3"
   },
   "A022": {
-    "id": "022",
+    "id": "A022",
     "isToken": false,
     "face": {
       "front": {
         "name": "Sobrecarga do Relâmpago Dourado",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/022.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A022.png",
         "isHorizontal": false
       }
     },
@@ -464,14 +464,14 @@
     "cost": "2"
   },
   "A023": {
-    "id": "023",
+    "id": "A023",
     "isToken": false,
     "face": {
       "front": {
         "name": " Chegada do Relâmpago Dourado",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/023.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A023.png",
         "isHorizontal": false
       }
     },
@@ -480,14 +480,14 @@
     "cost": "1"
   },
   "A024": {
-    "id": "024",
+    "id": "A024",
     "isToken": false,
     "face": {
       "front": {
         "name": "Círculo Mágico do Relâmpago Dourado",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/024.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A024.png",
         "isHorizontal": false
       }
     },
@@ -496,14 +496,14 @@
     "cost": "1"
   },
   "A025": {
-    "id": "025",
+    "id": "A025",
     "isToken": false,
     "face": {
       "front": {
         "name": "Heather, a Grande Mestra das Damas do Abismo",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/025.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A025.png",
         "isHorizontal": false
       }
     },
@@ -512,14 +512,14 @@
     "cost": "4"
   },
   "A026": {
-    "id": "026",
+    "id": "A026",
     "isToken": false,
     "face": {
       "front": {
         "name": "Willow, a Guardiã das Damas do Abismo",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/026.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A026.png",
         "isHorizontal": false
       }
     },
@@ -528,14 +528,14 @@
     "cost": "4"
   },
   "A027": {
-    "id": "027",
+    "id": "A027",
     "isToken": false,
     "face": {
       "front": {
         "name": "Íris, a Mecânica das Damas do Abismo",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/027.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A027.png",
         "isHorizontal": false
       }
     },
@@ -544,14 +544,14 @@
     "cost": "2"
   },
   "A028": {
-    "id": "028",
+    "id": "A028",
     "isToken": false,
     "face": {
       "front": {
         "name": "Liriel, a Médica das Damas do Abismo",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/028.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A028.png",
         "isHorizontal": false
       }
     },
@@ -560,14 +560,14 @@
     "cost": "2"
   },
   "A029": {
-    "id": "029",
+    "id": "A029",
     "isToken": false,
     "face": {
       "front": {
         "name": "Melissa, a Caçadora das Damas do Abismo",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/029.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A029.png",
         "isHorizontal": false
       }
     },
@@ -576,14 +576,14 @@
     "cost": "3"
   },
   "A030": {
-    "id": "030",
+    "id": "A030",
     "isToken": false,
     "face": {
       "front": {
         "name": "lyssa, a Caçadora das Damas do Abismo",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/030.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A030.png",
         "isHorizontal": false
       }
     },
@@ -592,14 +592,14 @@
     "cost": "3"
   },
   "A031": {
-    "id": "031",
+    "id": "A031",
     "isToken": false,
     "face": {
       "front": {
         "name": "Clover, a Escavadora das Damas do Abismo",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/031.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A031.png",
         "isHorizontal": false
       }
     },
@@ -608,14 +608,14 @@
     "cost": "2"
   },
   "A032": {
-    "id": "032",
+    "id": "A032",
     "isToken": false,
     "face": {
       "front": {
         "name": "Walkie Talkie",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/032.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A032.png",
         "isHorizontal": false
       }
     },
@@ -624,14 +624,14 @@
     "cost": "1"
   },
   "A033": {
-    "id": "033",
+    "id": "A033",
     "isToken": false,
     "face": {
       "front": {
         "name": "Chamado das Damas do Abismo",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/033.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A033.png",
         "isHorizontal": false
       }
     },
@@ -640,14 +640,14 @@
     "cost": "2"
   },
   "A034": {
-    "id": "034",
+    "id": "A034",
     "isToken": false,
     "face": {
       "front": {
         "name": "Drácula, o Supremo Senhor da Noite",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/034.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A034.png",
         "isHorizontal": false
       }
     },
@@ -656,14 +656,14 @@
     "cost": "4"
   },
   "A035": {
-    "id": "035",
+    "id": "A035",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lilith, a Dama do Senhor da Noite",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/035.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A035.png",
         "isHorizontal": false
       }
     },
@@ -672,14 +672,14 @@
     "cost": "3"
   },
   "A036": {
-    "id": "036",
+    "id": "A036",
     "isToken": false,
     "face": {
       "front": {
         "name": "Múmia, o Senhor da Noite",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/036.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A036.png",
         "isHorizontal": false
       }
     },
@@ -688,14 +688,14 @@
     "cost": "3"
   },
   "A037": {
-    "id": "037",
+    "id": "A037",
     "isToken": false,
     "face": {
       "front": {
         "name": "Stein, o Senhor da Noite",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/037.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A037.png",
         "isHorizontal": false
       }
     },
@@ -704,14 +704,14 @@
     "cost": "3"
   },
   "A038": {
-    "id": "038",
+    "id": "A038",
     "isToken": false,
     "face": {
       "front": {
         "name": "Castelo do Senhor da Noite",
         "type": "Campo",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/038.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A038.png",
         "isHorizontal": false
       }
     },
@@ -720,14 +720,14 @@
     "cost": "3"
   },
   "A039": {
-    "id": "039",
+    "id": "A039",
     "isToken": false,
     "face": {
       "front": {
         "name": "Controle Mental da Mestra do Castelo",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/039.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A039.png",
         "isHorizontal": false
       }
     },
@@ -736,14 +736,14 @@
     "cost": "1"
   },
   "A040": {
-    "id": "040",
+    "id": "A040",
     "isToken": false,
     "face": {
       "front": {
         "name": "O Poder do Senhor da Noite",
         "type": "Suporte",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/040.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A040.png",
         "isHorizontal": false
       }
     },
@@ -752,14 +752,14 @@
     "cost": "3"
   },
   "A041": {
-    "id": "041",
+    "id": "A041",
     "isToken": false,
     "face": {
       "front": {
         "name": "Chamado das Sombras",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/041.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A041.png",
         "isHorizontal": false
       }
     },
@@ -768,14 +768,14 @@
     "cost": "2"
   },
   "A042": {
-    "id": "042",
+    "id": "A042",
     "isToken": false,
     "face": {
       "front": {
         "name": "Proteção do Senhor da Noite",
         "type": "Equipamento",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/042.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A042.png",
         "isHorizontal": false
       }
     },
@@ -784,14 +784,14 @@
     "cost": "1"
   },
   "A043": {
-    "id": "043",
+    "id": "A043",
     "isToken": false,
     "face": {
       "front": {
         "name": "Bosch, o Terror Tóxico",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/043.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A043.png",
         "isHorizontal": false
       }
     },
@@ -800,14 +800,14 @@
     "cost": "3"
   },
   "A044": {
-    "id": "044",
+    "id": "A044",
     "isToken": false,
     "face": {
       "front": {
         "name": "Haber, o Terror Tóxico",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/044.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A044.png",
         "isHorizontal": false
       }
     },
@@ -816,14 +816,14 @@
     "cost": "3"
   },
   "A045": {
-    "id": "045",
+    "id": "A045",
     "isToken": false,
     "face": {
       "front": {
         "name": "Clara, o Terror Tóxico",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/045.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A045.png",
         "isHorizontal": false
       }
     },
@@ -832,14 +832,14 @@
     "cost": "3"
   },
   "A046": {
-    "id": "046",
+    "id": "A046",
     "isToken": false,
     "face": {
       "front": {
         "name": "MMO-NIAC, o Terror Tóxico",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/046.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A046.png",
         "isHorizontal": false
       }
     },
@@ -848,14 +848,14 @@
     "cost": "4"
   },
   "A047": {
-    "id": "047",
+    "id": "A047",
     "isToken": false,
     "face": {
       "front": {
         "name": "S-LIME, o Terror Tóxico",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/047.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A047.png",
         "isHorizontal": false
       }
     },
@@ -864,14 +864,14 @@
     "cost": "1"
   },
   "A048": {
-    "id": "048",
+    "id": "A048",
     "isToken": false,
     "face": {
       "front": {
         "name": "Granada de Gás do Terror",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/048.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A048.png",
         "isHorizontal": false
       }
     },
@@ -880,14 +880,14 @@
     "cost": "2"
   },
   "A049": {
-    "id": "049",
+    "id": "A049",
     "isToken": false,
     "face": {
       "front": {
         "name": "Esquiva Instantânea do Terror",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/049.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A049.png",
         "isHorizontal": false
       }
     },
@@ -896,14 +896,14 @@
     "cost": "1"
   },
   "A050": {
-    "id": "050",
+    "id": "A050",
     "isToken": false,
     "face": {
       "front": {
         "name": "Recombinação do Terror Tóxico",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/050.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A050.png",
         "isHorizontal": false
       }
     },
@@ -912,14 +912,14 @@
     "cost": "2"
   },
   "A051": {
-    "id": "051",
+    "id": "A051",
     "isToken": false,
     "face": {
       "front": {
         "name": "Shiro, o Paladino das Neves",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/051.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A051.png",
         "isHorizontal": false
       }
     },
@@ -928,14 +928,14 @@
     "cost": "5"
   },
   "A052": {
-    "id": "052",
+    "id": "A052",
     "isToken": false,
     "face": {
       "front": {
         "name": "Estátua Defensora das Marés",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/052.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A052.png",
         "isHorizontal": false
       }
     },
@@ -944,14 +944,14 @@
     "cost": "3"
   },
   "A053": {
-    "id": "053",
+    "id": "A053",
     "isToken": false,
     "face": {
       "front": {
         "name": "Cryptofauna - Piranha",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/053.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A053.png",
         "isHorizontal": false
       }
     },
@@ -960,14 +960,14 @@
     "cost": "2"
   },
   "A054": {
-    "id": "054",
+    "id": "A054",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lyla, Guerreira das Marés",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/054.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A054.png",
         "isHorizontal": false
       }
     },
@@ -976,14 +976,14 @@
     "cost": "3"
   },
   "A055": {
-    "id": "055",
+    "id": "A055",
     "isToken": false,
     "face": {
       "front": {
         "name": "Fahrkhael, o Terror das Montanhas Geladas",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/055.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A055.png",
         "isHorizontal": false
       }
     },
@@ -992,14 +992,14 @@
     "cost": "3"
   },
   "A056": {
-    "id": "056",
+    "id": "A056",
     "isToken": false,
     "face": {
       "front": {
         "name": "Água Viva",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/056.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A056.png",
         "isHorizontal": false
       }
     },
@@ -1008,14 +1008,14 @@
     "cost": "1"
   },
   "A057": {
-    "id": "057",
+    "id": "A057",
     "isToken": false,
     "face": {
       "front": {
         "name": "Siegfried, o Dragão Rubro",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/057.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A057.png",
         "isHorizontal": false
       }
     },
@@ -1024,14 +1024,14 @@
     "cost": "5"
   },
   "A058": {
-    "id": "058",
+    "id": "A058",
     "isToken": false,
     "face": {
       "front": {
         "name": "Estátua Defensora das Chamas",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/058.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A058.png",
         "isHorizontal": false
       }
     },
@@ -1040,14 +1040,14 @@
     "cost": "3"
   },
   "A059": {
-    "id": "059",
+    "id": "A059",
     "isToken": false,
     "face": {
       "front": {
         "name": "Red Vermillion, o Bardo Errante",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/059.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A059.png",
         "isHorizontal": false
       }
     },
@@ -1056,14 +1056,14 @@
     "cost": "3"
   },
   "A060": {
-    "id": "060",
+    "id": "A060",
     "isToken": false,
     "face": {
       "front": {
         "name": "Luccia, a Maga das Chamas Azuis",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/060.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A060.png",
         "isHorizontal": false
       }
     },
@@ -1072,14 +1072,14 @@
     "cost": "3"
   },
   "A061": {
-    "id": "061",
+    "id": "A061",
     "isToken": false,
     "face": {
       "front": {
         "name": "Wyvern Carmesim",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/061.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A061.png",
         "isHorizontal": false
       }
     },
@@ -1088,14 +1088,14 @@
     "cost": "3"
   },
   "A062": {
-    "id": "062",
+    "id": "A062",
     "isToken": false,
     "face": {
       "front": {
         "name": "Mithril, a Lâmina Sangrenta",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/062.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A062.png",
         "isHorizontal": false
       }
     },
@@ -1104,14 +1104,14 @@
     "cost": "2"
   },
   "A063": {
-    "id": "063",
+    "id": "A063",
     "isToken": false,
     "face": {
       "front": {
         "name": "Illuminum, o Guerreiro da Luz",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/063.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A063.png",
         "isHorizontal": false
       }
     },
@@ -1120,14 +1120,14 @@
     "cost": "3"
   },
   "A064": {
-    "id": "064",
+    "id": "A064",
     "isToken": false,
     "face": {
       "front": {
         "name": "Estátua Defensora Celeste",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/064.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A064.png",
         "isHorizontal": false
       }
     },
@@ -1136,14 +1136,14 @@
     "cost": "3"
   },
   "A065": {
-    "id": "065",
+    "id": "A065",
     "isToken": false,
     "face": {
       "front": {
         "name": "Noelle, a Guardiã Valquíria",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/065.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A065.png",
         "isHorizontal": false
       }
     },
@@ -1152,14 +1152,14 @@
     "cost": "3"
   },
   "A066": {
-    "id": "066",
+    "id": "A066",
     "isToken": false,
     "face": {
       "front": {
         "name": "Castielle, a Guardiã Valquíria",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/066.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A066.png",
         "isHorizontal": false
       }
     },
@@ -1168,14 +1168,14 @@
     "cost": "3"
   },
   "A067": {
-    "id": "067",
+    "id": "A067",
     "isToken": false,
     "face": {
       "front": {
         "name": "Tom, o Aprendiz do Relâmpago",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/067.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A067.png",
         "isHorizontal": false
       }
     },
@@ -1184,14 +1184,14 @@
     "cost": "2"
   },
   "A068": {
-    "id": "068",
+    "id": "A068",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lily, a Fada Curandeira",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/068.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A068.png",
         "isHorizontal": false
       }
     },
@@ -1200,14 +1200,14 @@
     "cost": "1"
   },
   "A069": {
-    "id": "069",
+    "id": "A069",
     "isToken": false,
     "face": {
       "front": {
         "name": "Sky Guardian - O Sentinela",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/069.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A069.png",
         "isHorizontal": false
       }
     },
@@ -1216,14 +1216,14 @@
     "cost": "5"
   },
   "A069A": {
-    "id": "069A",
+    "id": "A069A",
     "isToken": false,
     "face": {
       "front": {
         "name": "Sky Guardian - O Sentinela",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/069.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A069.png",
         "isHorizontal": false
       }
     },
@@ -1232,14 +1232,14 @@
     "cost": "5"
   },
   "A070": {
-    "id": "070",
+    "id": "A070",
     "isToken": false,
     "face": {
       "front": {
         "name": "Granolla, a Viajante Intergaláctica",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/070.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A070.png",
         "isHorizontal": false
       }
     },
@@ -1248,14 +1248,14 @@
     "cost": "3"
   },
   "A071": {
-    "id": "071",
+    "id": "A071",
     "isToken": false,
     "face": {
       "front": {
         "name": "scalon, o Lendário Dragão Branco",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/071.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A071.png",
         "isHorizontal": false
       }
     },
@@ -1264,14 +1264,14 @@
     "cost": "4"
   },
   "A072": {
-    "id": "072",
+    "id": "A072",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dub Avançado",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/072.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A072.png",
         "isHorizontal": false
       }
     },
@@ -1280,14 +1280,14 @@
     "cost": "3"
   },
   "A073": {
-    "id": "073",
+    "id": "A073",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kaguya, a Assassina das Sombras",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/073.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A073.png",
         "isHorizontal": false
       }
     },
@@ -1296,14 +1296,14 @@
     "cost": "3"
   },
   "A074": {
-    "id": "074",
+    "id": "A074",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ignis, a Lâmina Escarlate",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/074.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A074.png",
         "isHorizontal": false
       }
     },
@@ -1312,14 +1312,14 @@
     "cost": "3"
   },
   "A075": {
-    "id": "075",
+    "id": "A075",
     "isToken": false,
     "face": {
       "front": {
         "name": "Noccio, o Protetor da Floresta",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/075.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A075.png",
         "isHorizontal": false
       }
     },
@@ -1328,14 +1328,14 @@
     "cost": "3"
   },
   "A076": {
-    "id": "076",
+    "id": "A076",
     "isToken": false,
     "face": {
       "front": {
         "name": "Estátua Defensora das Cavernas",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/076.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A076.png",
         "isHorizontal": false
       }
     },
@@ -1344,14 +1344,14 @@
     "cost": "3"
   },
   "A077": {
-    "id": "077",
+    "id": "A077",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kaede, a Monge Errante",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/077.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A077.png",
         "isHorizontal": false
       }
     },
@@ -1360,14 +1360,14 @@
     "cost": "3"
   },
   "A078": {
-    "id": "078",
+    "id": "A078",
     "isToken": false,
     "face": {
       "front": {
         "name": "rbusto Amaldiçoado",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/078.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A078.png",
         "isHorizontal": false
       }
     },
@@ -1376,14 +1376,14 @@
     "cost": "2"
   },
   "A079": {
-    "id": "079",
+    "id": "A079",
     "isToken": false,
     "face": {
       "front": {
         "name": "Guerreiro Druida",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/079.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A079.png",
         "isHorizontal": false
       }
     },
@@ -1392,14 +1392,14 @@
     "cost": "2"
   },
   "A080": {
-    "id": "080",
+    "id": "A080",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dub-Canhão!",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/080.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A080.png",
         "isHorizontal": false
       }
     },
@@ -1408,14 +1408,14 @@
     "cost": "2"
   },
   "A081": {
-    "id": "081",
+    "id": "A081",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ártemis, a Deusa da Lua",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/081.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A081.png",
         "isHorizontal": false
       }
     },
@@ -1424,14 +1424,14 @@
     "cost": "4"
   },
   "A081A": {
-    "id": "081A",
+    "id": "A081A",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ártemis, a Deusa da Lua",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/081.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A081.png",
         "isHorizontal": false
       }
     },
@@ -1440,14 +1440,14 @@
     "cost": "4"
   },
   "A082": {
-    "id": "082",
+    "id": "A082",
     "isToken": false,
     "face": {
       "front": {
         "name": "Estátua Defensora do Vazio",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/082.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A082.png",
         "isHorizontal": false
       }
     },
@@ -1456,14 +1456,14 @@
     "cost": "3"
   },
   "A083": {
-    "id": "083",
+    "id": "A083",
     "isToken": false,
     "face": {
       "front": {
         "name": "xel, o Grande Pistoleiro",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/083.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A083.png",
         "isHorizontal": false
       }
     },
@@ -1472,14 +1472,14 @@
     "cost": "3"
   },
   "A084": {
-    "id": "084",
+    "id": "A084",
     "isToken": false,
     "face": {
       "front": {
         "name": "Green, o Mago da Destruição Final",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/084.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A084.png",
         "isHorizontal": false
       }
     },
@@ -1488,14 +1488,14 @@
     "cost": "4"
   },
   "A085": {
-    "id": "085",
+    "id": "A085",
     "isToken": false,
     "face": {
       "front": {
         "name": "Touya, o Espadachim Desertor",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/085.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A085.png",
         "isHorizontal": false
       }
     },
@@ -1504,14 +1504,14 @@
     "cost": "3"
   },
   "A086": {
-    "id": "086",
+    "id": "A086",
     "isToken": false,
     "face": {
       "front": {
         "name": "Neo Horizon - MK I",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/086.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A086.png",
         "isHorizontal": false
       }
     },
@@ -1520,14 +1520,14 @@
     "cost": "2"
   },
   "A087": {
-    "id": "087",
+    "id": "A087",
     "isToken": false,
     "face": {
       "front": {
         "name": "Storm Eagle",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/087.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A087.png",
         "isHorizontal": false
       }
     },
@@ -1536,14 +1536,14 @@
     "cost": "3"
   },
   "A088": {
-    "id": "088",
+    "id": "A088",
     "isToken": false,
     "face": {
       "front": {
         "name": "Estátua Defensora das Colinas",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/088.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A088.png",
         "isHorizontal": false
       }
     },
@@ -1552,14 +1552,14 @@
     "cost": "3"
   },
   "A089": {
-    "id": "089",
+    "id": "A089",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lance, o Mestre dos Vendavais",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/089.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A089.png",
         "isHorizontal": false
       }
     },
@@ -1568,14 +1568,14 @@
     "cost": "5"
   },
   "A090": {
-    "id": "090",
+    "id": "A090",
     "isToken": false,
     "face": {
       "front": {
         "name": "iko, a Pugilista Lendária",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/090.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A090.png",
         "isHorizontal": false
       }
     },
@@ -1584,14 +1584,14 @@
     "cost": "3"
   },
   "A091": {
-    "id": "091",
+    "id": "A091",
     "isToken": false,
     "face": {
       "front": {
         "name": "Windblade",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/091.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A091.png",
         "isHorizontal": false
       }
     },
@@ -1600,14 +1600,14 @@
     "cost": "2"
   },
   "A092": {
-    "id": "092",
+    "id": "A092",
     "isToken": false,
     "face": {
       "front": {
         "name": "Pastel, o Gato do Destino",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/092.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A092.png",
         "isHorizontal": false
       }
     },
@@ -1616,14 +1616,14 @@
     "cost": "2"
   },
   "A093": {
-    "id": "093",
+    "id": "A093",
     "isToken": false,
     "face": {
       "front": {
         "name": "Mudança de Território",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/093.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A093.png",
         "isHorizontal": false
       }
     },
@@ -1632,14 +1632,14 @@
     "cost": "1"
   },
   "A094": {
-    "id": "094",
+    "id": "A094",
     "isToken": false,
     "face": {
       "front": {
         "name": "Faísca",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/094.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A094.png",
         "isHorizontal": false
       }
     },
@@ -1648,14 +1648,14 @@
     "cost": "1"
   },
   "A095": {
-    "id": "095",
+    "id": "A095",
     "isToken": false,
     "face": {
       "front": {
         "name": "Disparo Mágico",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/095.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A095.png",
         "isHorizontal": false
       }
     },
@@ -1664,14 +1664,14 @@
     "cost": "1"
   },
   "A096": {
-    "id": "096",
+    "id": "A096",
     "isToken": false,
     "face": {
       "front": {
         "name": "Impulso de Energia",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/096.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A096.png",
         "isHorizontal": false
       }
     },
@@ -1680,14 +1680,14 @@
     "cost": "1"
   },
   "A097": {
-    "id": "097",
+    "id": "A097",
     "isToken": false,
     "face": {
       "front": {
         "name": "Visão do Destino",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/097.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A097.png",
         "isHorizontal": false
       }
     },
@@ -1696,14 +1696,14 @@
     "cost": "1"
   },
   "A098": {
-    "id": "098",
+    "id": "A098",
     "isToken": false,
     "face": {
       "front": {
         "name": "Passo do Vento",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/098.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A098.png",
         "isHorizontal": false
       }
     },
@@ -1712,14 +1712,14 @@
     "cost": "1"
   },
   "A099": {
-    "id": "099",
+    "id": "A099",
     "isToken": false,
     "face": {
       "front": {
         "name": "Chamado da Noite",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/099.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A099.png",
         "isHorizontal": false
       }
     },
@@ -1728,14 +1728,14 @@
     "cost": "1"
   },
   "A100": {
-    "id": "100",
+    "id": "A100",
     "isToken": false,
     "face": {
       "front": {
         "name": "Núcleo do Vazio Perpétuo",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/100.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A100.png",
         "isHorizontal": false
       }
     },
@@ -1744,14 +1744,14 @@
     "cost": "1"
   },
   "A101": {
-    "id": "101",
+    "id": "A101",
     "isToken": false,
     "face": {
       "front": {
         "name": "Núcleo da Alma Incandescente",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/101.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A101.png",
         "isHorizontal": false
       }
     },
@@ -1760,14 +1760,14 @@
     "cost": "1"
   },
   "A102": {
-    "id": "102",
+    "id": "A102",
     "isToken": false,
     "face": {
       "front": {
         "name": "Núcleo da Brisa Primordial",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/102.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A102.png",
         "isHorizontal": false
       }
     },
@@ -1776,14 +1776,14 @@
     "cost": "1"
   },
   "A103": {
-    "id": "103",
+    "id": "A103",
     "isToken": false,
     "face": {
       "front": {
         "name": "Núcleo da Chuva Ancestral",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/103.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A103.png",
         "isHorizontal": false
       }
     },
@@ -1792,14 +1792,14 @@
     "cost": "1"
   },
   "A104": {
-    "id": "104",
+    "id": "A104",
     "isToken": false,
     "face": {
       "front": {
         "name": "Núcleo do Guardião Terreno",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/104.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A104.png",
         "isHorizontal": false
       }
     },
@@ -1808,14 +1808,14 @@
     "cost": "1"
   },
   "A105": {
-    "id": "105",
+    "id": "A105",
     "isToken": false,
     "face": {
       "front": {
         "name": "Núcleo da Luminância Eterna",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/105.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A105.png",
         "isHorizontal": false
       }
     },
@@ -1824,14 +1824,14 @@
     "cost": "1"
   },
   "A106": {
-    "id": "106",
+    "id": "A106",
     "isToken": false,
     "face": {
       "front": {
         "name": "ascensão do Escolhido",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/106.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A106.png",
         "isHorizontal": false
       }
     },
@@ -1840,14 +1840,14 @@
     "cost": "1"
   },
   "A107": {
-    "id": "107",
+    "id": "A107",
     "isToken": false,
     "face": {
       "front": {
         "name": "Onda de Purificação",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/107.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A107.png",
         "isHorizontal": false
       }
     },
@@ -1856,14 +1856,14 @@
     "cost": "2"
   },
   "A108": {
-    "id": "108",
+    "id": "A108",
     "isToken": false,
     "face": {
       "front": {
         "name": "Recarga Turbulenta",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/108.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A108.png",
         "isHorizontal": false
       }
     },
@@ -1872,14 +1872,14 @@
     "cost": "2"
   },
   "A109": {
-    "id": "109",
+    "id": "A109",
     "isToken": false,
     "face": {
       "front": {
         "name": "Rebobinar",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/109.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A109.png",
         "isHorizontal": false
       }
     },
@@ -1888,14 +1888,14 @@
     "cost": "2"
   },
   "A110": {
-    "id": "110",
+    "id": "A110",
     "isToken": false,
     "face": {
       "front": {
         "name": "Poção de Remoção de Status",
         "type": "Equipamento",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/110.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A110.png",
         "isHorizontal": false
       }
     },
@@ -1904,14 +1904,14 @@
     "cost": "2"
   },
   "A111": {
-    "id": "111",
+    "id": "A111",
     "isToken": false,
     "face": {
       "front": {
         "name": "Poção de Cura",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/111.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A111.png",
         "isHorizontal": false
       }
     },
@@ -1920,14 +1920,14 @@
     "cost": "1"
   },
   "A112": {
-    "id": "112",
+    "id": "A112",
     "isToken": false,
     "face": {
       "front": {
         "name": "Medalhão da Centelha Absoluta",
         "type": "Suporte",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/112.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A112.png",
         "isHorizontal": false
       }
     },
@@ -1936,14 +1936,14 @@
     "cost": "3"
   },
   "A113": {
-    "id": "113",
+    "id": "A113",
     "isToken": false,
     "face": {
       "front": {
         "name": "Tufão",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/113.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A113.png",
         "isHorizontal": false
       }
     },
@@ -1952,14 +1952,14 @@
     "cost": "1"
   },
   "A114": {
-    "id": "114",
+    "id": "A114",
     "isToken": false,
     "face": {
       "front": {
         "name": "Poção de Cura Maior",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/114.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A114.png",
         "isHorizontal": false
       }
     },
@@ -1968,14 +1968,14 @@
     "cost": "2"
   },
   "A115": {
-    "id": "115",
+    "id": "A115",
     "isToken": false,
     "face": {
       "front": {
         "name": "Buraco Negro",
         "type": "Suporte",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/115.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A115.png",
         "isHorizontal": false
       }
     },
@@ -1984,14 +1984,14 @@
     "cost": "5"
   },
   "A116": {
-    "id": "116",
+    "id": "A116",
     "isToken": false,
     "face": {
       "front": {
         "name": "Teletransporte de Emergência",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/116.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A116.png",
         "isHorizontal": false
       }
     },
@@ -2000,14 +2000,14 @@
     "cost": "2"
   },
   "A117": {
-    "id": "117",
+    "id": "A117",
     "isToken": false,
     "face": {
       "front": {
         "name": "Reencarnação Flamejante",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/117.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A117.png",
         "isHorizontal": false
       }
     },
@@ -2016,14 +2016,14 @@
     "cost": "1"
   },
   "A118": {
-    "id": "118",
+    "id": "A118",
     "isToken": false,
     "face": {
       "front": {
         "name": "lterar probabilidades",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/118.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A118.png",
         "isHorizontal": false
       }
     },
@@ -2032,14 +2032,14 @@
     "cost": "2"
   },
   "A119": {
-    "id": "119",
+    "id": "A119",
     "isToken": false,
     "face": {
       "front": {
         "name": "cenda as Chamas do Milagre!",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/119.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A119.png",
         "isHorizontal": false
       }
     },
@@ -2048,14 +2048,14 @@
     "cost": "2"
   },
   "A120": {
-    "id": "120",
+    "id": "A120",
     "isToken": false,
     "face": {
       "front": {
         "name": "Monólito do Guardião",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/120.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A120.png",
         "isHorizontal": false
       }
     },
@@ -2064,14 +2064,14 @@
     "cost": "2"
   },
   "A121": {
-    "id": "121",
+    "id": "A121",
     "isToken": false,
     "face": {
       "front": {
         "name": "Bloqueio",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/121.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A121.png",
         "isHorizontal": false
       }
     },
@@ -2080,14 +2080,14 @@
     "cost": "1"
   },
   "A122": {
-    "id": "122",
+    "id": "A122",
     "isToken": false,
     "face": {
       "front": {
         "name": "Escudo da Provocação",
         "type": "Equipamento",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/122.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A122.png",
         "isHorizontal": false
       }
     },
@@ -2096,14 +2096,14 @@
     "cost": "2"
   },
   "A123": {
-    "id": "123",
+    "id": "A123",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lâmina Esmeralda",
         "type": "Equipamento",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/123.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A123.png",
         "isHorizontal": false
       }
     },
@@ -2112,14 +2112,14 @@
     "cost": "2"
   },
   "A124": {
-    "id": "124",
+    "id": "A124",
     "isToken": false,
     "face": {
       "front": {
         "name": "Expansão de Vigor",
         "type": "Equipamento",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/124.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A124.png",
         "isHorizontal": false
       }
     },
@@ -2128,14 +2128,14 @@
     "cost": "2"
   },
   "A125": {
-    "id": "125",
+    "id": "A125",
     "isToken": false,
     "face": {
       "front": {
         "name": "Correntes de Poder",
         "type": "Equipamento",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/125.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A125.png",
         "isHorizontal": false
       }
     },
@@ -2144,14 +2144,14 @@
     "cost": "1"
   },
   "A126": {
-    "id": "126",
+    "id": "A126",
     "isToken": false,
     "face": {
       "front": {
         "name": "rmadura de Fogo e Gelo",
         "type": "Equipamento",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/126.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A126.png",
         "isHorizontal": false
       }
     },
@@ -2160,14 +2160,14 @@
     "cost": "2"
   },
   "A127": {
-    "id": "127",
+    "id": "A127",
     "isToken": false,
     "face": {
       "front": {
         "name": "Espaço",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/127.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A127.png",
         "isHorizontal": false
       }
     },
@@ -2176,14 +2176,14 @@
     "cost": "2"
   },
   "A128": {
-    "id": "128",
+    "id": "A128",
     "isToken": false,
     "face": {
       "front": {
         "name": "Vulcão",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/128.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A128.png",
         "isHorizontal": false
       }
     },
@@ -2192,14 +2192,14 @@
     "cost": "2"
   },
   "A129": {
-    "id": "129",
+    "id": "A129",
     "isToken": false,
     "face": {
       "front": {
         "name": "Caverna",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/129.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A129.png",
         "isHorizontal": false
       }
     },
@@ -2208,14 +2208,14 @@
     "cost": "2"
   },
   "A130": {
-    "id": "130",
+    "id": "A130",
     "isToken": false,
     "face": {
       "front": {
         "name": "Oceano",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/130.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A130.png",
         "isHorizontal": false
       }
     },
@@ -2224,14 +2224,14 @@
     "cost": "2"
   },
   "A131": {
-    "id": "131",
+    "id": "A131",
     "isToken": false,
     "face": {
       "front": {
         "name": "Montanha",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/131.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A131.png",
         "isHorizontal": false
       }
     },
@@ -2240,14 +2240,14 @@
     "cost": "2"
   },
   "A132": {
-    "id": "132",
+    "id": "A132",
     "isToken": false,
     "face": {
       "front": {
         "name": "Céu",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/132.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A132.png",
         "isHorizontal": false
       }
     },
@@ -2256,14 +2256,14 @@
     "cost": "2"
   },
   "A133": {
-    "id": "133",
+    "id": "A133",
     "isToken": false,
     "face": {
       "front": {
         "name": "Ovo de Dragão",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/133.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A133.png",
         "isHorizontal": false
       }
     },
@@ -2272,14 +2272,14 @@
     "cost": "1" 
   },
   "A134": {
-    "id": "134",
+    "id": "A134",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lyra, a Duquesa da Corte do destino",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/134.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A134.png",
         "isHorizontal": false
       }
     },
@@ -2288,14 +2288,14 @@
     "cost": "3"
   },
   "A135": {
-    "id": "135",
+    "id": "A135",
     "isToken": false,
     "face": {
       "front": {
         "name": "Tezla, o Mecha-Cientista",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/135.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A135.png",
         "isHorizontal": false
       }
     },
@@ -2304,14 +2304,14 @@
     "cost": "3"
   },
   "A136": {
-    "id": "136",
+    "id": "A136",
     "isToken": false,
     "face": {
       "front": {
         "name": "Helena, a Paladina Errante",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/136.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A136.png",
         "isHorizontal": false
       }
     },
@@ -2320,14 +2320,14 @@
     "cost": "4"
   },
   "A137": {
-    "id": "137",
+    "id": "A137",
     "isToken": false,
     "face": {
       "front": {
         "name": "kita, a Clériga Errante",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/137.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A137.png",
         "isHorizontal": false
       }
     },
@@ -2336,14 +2336,14 @@
     "cost": "2"
   },
   "A138": {
-    "id": "138",
+    "id": "A138",
     "isToken": false,
     "face": {
       "front": {
         "name": "Red Vermillion, o Gato Errante",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/138.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A138.png",
         "isHorizontal": false
       }
     },
@@ -2352,14 +2352,14 @@
     "cost": "2"
   },
   "A139": {
-    "id": "139",
+    "id": "A139",
     "isToken": false,
     "face": {
       "front": {
         "name": "Elise, A Paladina Errante",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/139.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A139.png",
         "isHorizontal": false
       }
     },
@@ -2368,14 +2368,14 @@
     "cost": "2"
   },
   "A140": {
-    "id": "140",
+    "id": "A140",
     "isToken": false,
     "face": {
       "front": {
         "name": "Holivia, o Bárbaro Errante",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/140.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A140.png",
         "isHorizontal": false
       }
     },
@@ -2384,14 +2384,14 @@
     "cost": "4"
   },
   "A141": {
-    "id": "141",
+    "id": "A141",
     "isToken": false,
     "face": {
       "front": {
         "name": "Windstorm",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/141.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A141.png",
         "isHorizontal": false
       }
     },
@@ -2400,14 +2400,14 @@
     "cost": "2"
   },  
   "A142": {
-    "id": "142",
+    "id": "A142",
     "isToken": false,
     "face": {
       "front": {
         "name": "Insígnia dos Errantes",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/142.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A142.png",
         "isHorizontal": false
       }
     },
@@ -2416,14 +2416,14 @@
     "cost": "1"
   },
   "A143": {
-    "id": "143",
+    "id": "A143",
     "isToken": false,
     "face": {
       "front": {
         "name": "Bola de Fogo",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/143.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A143.png",
         "isHorizontal": false
       }
     },
@@ -2432,14 +2432,14 @@
     "cost": "1"
   },
   "A144": {
-    "id": "144",
+    "id": "A144",
     "isToken": false,
     "face": {
       "front": {
         "name": "Cartão Vermelho",
         "type": "Suporte",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/144.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A144.png",
         "isHorizontal": false
       }
     },
@@ -2448,14 +2448,14 @@
     "cost": "1"
   },
   "A145": {
-    "id": "145",
+    "id": "A145",
     "isToken": false,
     "face": {
       "front": {
         "name": "Nova Horizon",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/145.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A145.png",
         "isHorizontal": false
       }
     },
@@ -2464,14 +2464,14 @@
     "cost": "2"
   },
   "A146": {
-    "id": "146",
+    "id": "A146",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dub",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/146.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A146.png",
         "isHorizontal": false
       }
     },
@@ -2480,14 +2480,14 @@
     "cost": "1"
   },
   "A147": {
-    "id": "147",
+    "id": "A147",
     "isToken": false,
     "face": {
       "front": {
         "name": "Schwin-ha, A Bruxa do Lago",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/147.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A147.png",
         "isHorizontal": false
       }
     },
@@ -2496,14 +2496,14 @@
     "cost": "4"
   },
   "A149": {
-    "id": "149",
+    "id": "A149",
     "isToken": false,
     "face": {
       "front": {
         "name": "Gabriela, A Mãe das Guardiãs Valquírias",
         "type": "Personagem",
         "cost": "4",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/149.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A149.png",
         "isHorizontal": false
       }
     },
@@ -2512,14 +2512,14 @@
     "cost": "4"
   },
   "A150": {
-    "id": "150",
+    "id": "A150",
     "isToken": false,
     "face": {
       "front": {
         "name": "liax, o Necromante Sombrio",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/150.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A150.png",
         "isHorizontal": false
       }
     },
@@ -2528,14 +2528,14 @@
     "cost": "3"
   },
   "A151": {
-    "id": "151",
+    "id": "A151",
     "isToken": false,
     "face": {
       "front": {
         "name": "Fullmetal Photon Striker",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/151.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A151.png",
         "isHorizontal": false
       }
     },
@@ -2544,14 +2544,14 @@
     "cost": "5"
   },
   "A152": {
-    "id": "152",
+    "id": "A152",
     "isToken": false,
     "face": {
       "front": {
         "name": "Broquinha",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/152.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A152.png",
         "isHorizontal": false
       }
     },
@@ -2560,14 +2560,14 @@
     "cost": "1"
   },
   "A157": {
-    "id": "157",
+    "id": "A157",
     "isToken": false,
     "face": {
       "front": {
         "name": "Mirabell, A Fada Eletrostática",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/157.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A157.png",
         "isHorizontal": false
       }
     },
@@ -2576,14 +2576,14 @@
     "cost": "1"
   },
   "A160": {
-    "id": "160",
+    "id": "A160",
     "isToken": false,
     "face": {
       "front": {
         "name": "Onda Dub-nizadora",
         "type": "Suporte",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/160.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A160.png",
         "isHorizontal": false
       }
     },
@@ -2592,14 +2592,14 @@
     "cost": "2"
   },
   "A171": {
-    "id": "171",
+    "id": "A171",
     "isToken": false,
     "face": {
       "front": {
         "name": "Shibaryx, A Aberração Genética",
         "type": "Personagem",
         "cost": "5",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/171.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A171.png",
         "isHorizontal": false
       }
     },
@@ -2608,14 +2608,14 @@
     "cost": "5"
   },
   "A172": {
-    "id": "172",
+    "id": "A172",
     "isToken": false,
     "face": {
       "front": {
         "name": "Leaper, A Aberração Genética",
         "type": "Personagem",
         "cost": "1",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/172.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A172.png",
         "isHorizontal": false
       }
     },
@@ -2624,14 +2624,14 @@
     "cost": "1"
   },
   "A173": {
-    "id": "173",
+    "id": "A173",
     "isToken": false,
     "face": {
       "front": {
         "name": "Slasher, A Aberração Genética",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/173.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A173.png",
         "isHorizontal": false
       }
     },
@@ -2640,14 +2640,14 @@
     "cost": "2"
   },
   "A174": {
-    "id": "174",
+    "id": "A174",
     "isToken": false,
     "face": {
       "front": {
         "name": "Duster, A Aberração Genética",
         "type": "Personagem",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/174.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A174.png",
         "isHorizontal": false
       }
     },
@@ -2656,14 +2656,14 @@
     "cost": "2"
   },
   "A175": {
-    "id": "175",
+    "id": "A175",
     "isToken": false,
     "face": {
       "front": {
         "name": "Staller, A Aberração Genética",
         "type": "Personagem",
         "cost": "3",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/175.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A175.png",
         "isHorizontal": false
       }
     },
@@ -2672,14 +2672,14 @@
     "cost": "3"
   },
   "A176": {
-    "id": "176",
+    "id": "A176",
     "isToken": false,
     "face": {
       "front": {
         "name": "berração Genética em Quarentena",
         "type": "Campo",
         "cost": "2",
-        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/176.png",
+        "image": "https://frontierstcg.github.io/Frontiers-TCG-Arena/img/cards/A176.png",
         "isHorizontal": false
       }
     },
