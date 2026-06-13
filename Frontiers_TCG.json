@@ -1,0 +1,197 @@
+{
+  "name": "Frontiers TCG",
+  "menuBackgroundImage": "[backgroundlink]",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "[deckListlink]"
+  },
+  "customHelp": "Para saber mais sobre as regras, as cartas e como jogar, visite nosso site:\nhttps://frontierstcg.notion.site/Frontiers-TCG-Site-Oficial-217ff10ca08b80308e88debfc22e1e5d",
+  "cardRotation": "45",
+  "cards": {
+    "dataUrl": "[cardslink]",
+    "cardBack": "[cardBacklink]",
+    "version": 1
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "cost"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard"
+      }
+    ]
+  },
+  "Standard": {
+    "general": {
+      "maxPerCard": 2
+    },
+    "categories": []
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "Você tem a oportunidade de realizar um mulligan caso deseje trocar a sua mão inicial.",
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "ice-token",
+          "name": "Congelado",
+          "image": "[effectlink]/CONGELADO.png"
+        },
+        {
+          "id": "burn-token",
+          "name": "Queimando",
+          "image": "[effectlink]/QUEIMANDO.png"
+        },
+        {
+          "id": "paralyze-token",
+          "name": "Paralisado",
+          "image": "[effectlink]/PARALISADO.png"
+        },
+        {
+          "id": "poison-token",
+          "name": "Envenenado",
+          "image": "[effectlink]/ENVENENADO.png"
+        },
+        {
+          "id": "silence-token",
+          "name": "Silenciado",
+          "image": "[effectlink]/SILENCIADO.png"
+        },
+        {
+          "id": "weakned-token",
+          "name": "Enfraquecido",
+          "image": "[effectlink]/ENFRAQUECIDO.png"
+        }
+      ],
+      "countersStartingValues": [
+        12
+      ],
+      "sections": {
+        "customSections": [
+          "Battlefield",
+          "FieldZone",
+          "Mana"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "FieldZone",
+                  "style": {
+                    "width": "25vh"
+                  }
+                },
+                {
+                  "section": "Battlefield"
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": {
+                    "width": "50vh"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Mana"
+        ],
+        "autoPlayFromHand": {
+          "Mana": "Mana",
+          "Personagem": "Battlefield",
+          "Equipamento": "Stack",
+          "Suporte": "Stack",
+          "Campo": "FieldZone"
+        },
+        "autoPlayFromStack": {
+          "Mana": "Mana",
+          "Personagem": "Battlefield",
+          "Equipamento": "GROUP",
+          "Suporte": "Discard",
+          "Campo": "FieldZone"
+        },
+        "sectionsDict": {
+          "Battlefield": {
+            "title": "Battlefield",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Zona de Batalha",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "FieldZone": {
+            "title": "FieldZone",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Field Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Energy Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}

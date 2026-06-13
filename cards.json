@@ -1,0 +1,2689 @@
+{
+  "energy1": {
+    "id": "energy1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "[energylink]eng01.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy2": {
+    "id": "energy2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "[energylink]eng02.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy3": {
+    "id": "energy3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "[energylink]eng03.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy4": {
+    "id": "energy4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "[energylink]eng04.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy5": {
+    "id": "energy5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "[energylink]eng05.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy6": {
+    "id": "energy6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "[energylink]eng06.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "energy7": {
+    "id": "energy7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energia",
+        "type": "Mana",
+        "cost": "0",
+        "image": "[energylink]eng07.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energia",
+    "type": "Mana",
+    "cost": "0"
+  },
+  "001": {
+    "id": "001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cranell, a Líder da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cranell, a Líder da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "002": {
+    "id": "002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ginna, a Assassina da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ginna, a Assassina da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "003": {
+    "id": "003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rina, a Curandeira da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rina, a Curandeira da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "004": {
+    "id": "004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dielan, o Mestre de Armas da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dielan, o Mestre de Armas da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "005": {
+    "id": "005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leneh, a Engenheira da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leneh, a Engenheira da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "006": {
+    "id": "006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drone da Brigada Estelar",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drone da Brigada Estelar",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "007": {
+    "id": "007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Campo de Batalha da Brigada",
+        "type": "Campo",
+        "cost": "3",
+        "image": "[cardslink]007.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Campo de Batalha da Brigada",
+    "type": "Campo",
+    "cost": "3"
+  },
+  "008": {
+    "id": "008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Táticas de Guerra da Brigada",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]008.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Táticas de Guerra da Brigada",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "009": {
+    "id": "009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "staroth, o Duque da Desolação dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "staroth, o Duque da Desolação dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "010": {
+    "id": "010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zariel, o Duque da Guerra dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]010.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zariel, o Duque da Guerra dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "011": {
+    "id": "011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]011.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belphegor, a Duquesa da Preguiça dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "012": {
+    "id": "012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]012.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morgrim, o Duque dos Segredos dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "013": {
+    "id": "013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karon, o Vassalo dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]013.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karon, o Vassalo dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "014": {
+    "id": "014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Varud, o Vassalo dos Cavaleiros Infernais",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]014.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Varud, o Vassalo dos Cavaleiros Infernais",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "015": {
+    "id": "015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamas da Discórdia dos Cavaleiros Infernais",
+        "type": "Suporte",
+        "cost": "3",
+        "image": "[cardslink]015.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamas da Discórdia dos Cavaleiros Infernais",
+    "type": "Suporte",
+    "cost": "3"
+  },
+  "016": {
+    "id": "016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ordem de Ataque dos Cavaleiros Infernais",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]016.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ordem de Ataque dos Cavaleiros Infernais",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "017": {
+    "id": "017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thomas, o Mago do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thomas, o Mago do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "018": {
+    "id": "018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marie, a Bruxa do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]018.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marie, a Bruxa do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "019": {
+    "id": "019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel, a Aprendiz do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]019.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel, a Aprendiz do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "020": {
+    "id": "020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciel, a Arquimaga do Relâmpago Dourado",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciel, a Arquimaga do Relâmpago Dourado",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "021": {
+    "id": "021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": " Cabana na Floresta",
+        "type": "Campo",
+        "cost": "3",
+        "image": "[cardslink]021.png",
+        "isHorizontal": false
+      }
+    },
+    "name": " Cabana na Floresta",
+    "type": "Campo",
+    "cost": "3"
+  },
+  "022": {
+    "id": "022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sobrecarga do Relâmpago Dourado",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sobrecarga do Relâmpago Dourado",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "023": {
+    "id": "023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": " Chegada do Relâmpago Dourado",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]023.png",
+        "isHorizontal": false
+      }
+    },
+    "name": " Chegada do Relâmpago Dourado",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "024": {
+    "id": "024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Círculo Mágico do Relâmpago Dourado",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]024.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Círculo Mágico do Relâmpago Dourado",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "025": {
+    "id": "025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heather, a Grande Mestra das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]025.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heather, a Grande Mestra das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "026": {
+    "id": "026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Willow, a Guardiã das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]026.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Willow, a Guardiã das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "027": {
+    "id": "027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Íris, a Mecânica das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]027.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Íris, a Mecânica das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "028": {
+    "id": "028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Liriel, a Médica das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]028.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liriel, a Médica das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "029": {
+    "id": "029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Melissa, a Caçadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]029.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Melissa, a Caçadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "030": {
+    "id": "030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "lyssa, a Caçadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]030.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "lyssa, a Caçadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "031": {
+    "id": "031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clover, a Escavadora das Damas do Abismo",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]031.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clover, a Escavadora das Damas do Abismo",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "032": {
+    "id": "032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Walkie Talkie",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Walkie Talkie",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "033": {
+    "id": "033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado das Damas do Abismo",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado das Damas do Abismo",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "034": {
+    "id": "034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drácula, o Supremo Senhor da Noite",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]034.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drácula, o Supremo Senhor da Noite",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "035": {
+    "id": "035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith, a Dama do Senhor da Noite",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lilith, a Dama do Senhor da Noite",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "036": {
+    "id": "036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Múmia, o Senhor da Noite",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]036.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Múmia, o Senhor da Noite",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "037": {
+    "id": "037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stein, o Senhor da Noite",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]037.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stein, o Senhor da Noite",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "038": {
+    "id": "038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castelo do Senhor da Noite",
+        "type": "Campo",
+        "cost": "3",
+        "image": "[cardslink]038.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castelo do Senhor da Noite",
+    "type": "Campo",
+    "cost": "3"
+  },
+  "039": {
+    "id": "039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Controle Mental da Mestra do Castelo",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Controle Mental da Mestra do Castelo",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "040": {
+    "id": "040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Poder do Senhor da Noite",
+        "type": "Suporte",
+        "cost": "3",
+        "image": "[cardslink]040.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Poder do Senhor da Noite",
+    "type": "Suporte",
+    "cost": "3"
+  },
+  "041": {
+    "id": "041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado das Sombras",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]041.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado das Sombras",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "042": {
+    "id": "042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Proteção do Senhor da Noite",
+        "type": "Equipamento",
+        "cost": "1",
+        "image": "[cardslink]042.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Proteção do Senhor da Noite",
+    "type": "Equipamento",
+    "cost": "1"
+  },
+  "043": {
+    "id": "043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bosch, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]043.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bosch, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "044": {
+    "id": "044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haber, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]044.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haber, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "045": {
+    "id": "045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clara, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]045.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clara, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "046": {
+    "id": "046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MMO-NIAC, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]046.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "MMO-NIAC, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "047": {
+    "id": "047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S-LIME, o Terror Tóxico",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]047.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "S-LIME, o Terror Tóxico",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "048": {
+    "id": "048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Granada de Gás do Terror",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]048.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Granada de Gás do Terror",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "049": {
+    "id": "049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esquiva Instantânea do Terror",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]049.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esquiva Instantânea do Terror",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "050": {
+    "id": "050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recombinação do Terror Tóxico",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]050.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recombinação do Terror Tóxico",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "051": {
+    "id": "051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiro, o Paladino das Neves",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]051.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiro, o Paladino das Neves",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "052": {
+    "id": "052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Marés",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]052.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Marés",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "053": {
+    "id": "053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryptofauna - Piranha",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]053.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryptofauna - Piranha",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "054": {
+    "id": "054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lyla, Guerreira das Marés",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]054.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lyla, Guerreira das Marés",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "055": {
+    "id": "055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fahrkhael, o Terror das Montanhas Geladas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]055.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fahrkhael, o Terror das Montanhas Geladas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "056": {
+    "id": "056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Água Viva",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]056.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Água Viva",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "057": {
+    "id": "057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Siegfried, o Dragão Rubro",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]057.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Siegfried, o Dragão Rubro",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "058": {
+    "id": "058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Chamas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]058.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Chamas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "059": {
+    "id": "059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Vermillion, o Bardo Errante",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]059.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Vermillion, o Bardo Errante",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "060": {
+    "id": "060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luccia, a Maga das Chamas Azuis",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]060.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luccia, a Maga das Chamas Azuis",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "061": {
+    "id": "061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyvern Carmesim",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]061.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyvern Carmesim",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "062": {
+    "id": "062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mithril, a Lâmina Sangrenta",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]062.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mithril, a Lâmina Sangrenta",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "063": {
+    "id": "063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Illuminum, o Guerreiro da Luz",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]063.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Illuminum, o Guerreiro da Luz",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "064": {
+    "id": "064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora Celeste",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]064.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora Celeste",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "065": {
+    "id": "065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noelle, a Guardiã Valquíria",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]065.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noelle, a Guardiã Valquíria",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "066": {
+    "id": "066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castielle, a Guardiã Valquíria",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]066.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castielle, a Guardiã Valquíria",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "067": {
+    "id": "067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tom, o Aprendiz do Relâmpago",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]067.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tom, o Aprendiz do Relâmpago",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "068": {
+    "id": "068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lily, a Fada Curandeira",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]068.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lily, a Fada Curandeira",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "069": {
+    "id": "069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Guardian - O Sentinela",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]069.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Guardian - O Sentinela",
+    "type": "Personagem",
+    "cost": "5"
+  },"069A": {
+    "id": "069A",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Guardian - O Sentinela",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]069.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Guardian - O Sentinela",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "070": {
+    "id": "070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Granolla, a Viajante Intergaláctica",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]070.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Granolla, a Viajante Intergaláctica",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "071": {
+    "id": "071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "scalon, o Lendário Dragão Branco",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]071.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "scalon, o Lendário Dragão Branco",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "072": {
+    "id": "072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub Avançado",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]072.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub Avançado",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "073": {
+    "id": "073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaguya, a Assassina das Sombras",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]073.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaguya, a Assassina das Sombras",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "074": {
+    "id": "074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ignis, a Lâmina Escarlate",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]074.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ignis, a Lâmina Escarlate",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "075": {
+    "id": "075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noccio, o Protetor da Floresta",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noccio, o Protetor da Floresta",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "076": {
+    "id": "076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Cavernas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]076.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Cavernas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "077": {
+    "id": "077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaede, a Monge Errante",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]077.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaede, a Monge Errante",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "078": {
+    "id": "078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "rbusto Amaldiçoado",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]078.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "rbusto Amaldiçoado",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "079": {
+    "id": "079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerreiro Druida",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]079.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerreiro Druida",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "080": {
+    "id": "080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub-Canhão!",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub-Canhão!",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "081": {
+    "id": "081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ártemis, a Deusa da Lua",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]081.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ártemis, a Deusa da Lua",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "081A": {
+    "id": "081A",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ártemis, a Deusa da Lua",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]081.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ártemis, a Deusa da Lua",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "082": {
+    "id": "082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora do Vazio",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]082.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora do Vazio",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "083": {
+    "id": "083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "xel, o Grande Pistoleiro",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]083.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "xel, o Grande Pistoleiro",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "084": {
+    "id": "084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green, o Mago da Destruição Final",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]084.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Green, o Mago da Destruição Final",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "085": {
+    "id": "085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Touya, o Espadachim Desertor",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]085.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Touya, o Espadachim Desertor",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "086": {
+    "id": "086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo Horizon - MK I",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]086.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo Horizon - MK I",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "087": {
+    "id": "087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Storm Eagle",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]087.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Storm Eagle",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "088": {
+    "id": "088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estátua Defensora das Colinas",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]088.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estátua Defensora das Colinas",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "089": {
+    "id": "089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lance, o Mestre dos Vendavais",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]089.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lance, o Mestre dos Vendavais",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "090": {
+    "id": "090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "iko, a Pugilista Lendária",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]090.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "iko, a Pugilista Lendária",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "091": {
+    "id": "091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windblade",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]091.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windblade",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "092": {
+    "id": "092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pastel, o Gato do Destino",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]092.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pastel, o Gato do Destino",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "093": {
+    "id": "093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mudança de Território",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mudança de Território",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "094": {
+    "id": "094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faísca",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]094.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faísca",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "095": {
+    "id": "095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Disparo Mágico",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]095.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Disparo Mágico",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "096": {
+    "id": "096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Impulso de Energia",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]096.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Impulso de Energia",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "097": {
+    "id": "097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Visão do Destino",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]097.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Visão do Destino",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "098": {
+    "id": "098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Passo do Vento",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Passo do Vento",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "099": {
+    "id": "099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chamado da Noite",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]099.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chamado da Noite",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "100": {
+    "id": "100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo do Vazio Perpétuo",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo do Vazio Perpétuo",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "101": {
+    "id": "101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Alma Incandescente",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Alma Incandescente",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "102": {
+    "id": "102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Brisa Primordial",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Brisa Primordial",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "103": {
+    "id": "103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Chuva Ancestral",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]103.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Chuva Ancestral",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "104": {
+    "id": "104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo do Guardião Terreno",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo do Guardião Terreno",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "105": {
+    "id": "105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Núcleo da Luminância Eterna",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Núcleo da Luminância Eterna",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "106": {
+    "id": "106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "scensão do Escolhido",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]106.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "scensão do Escolhido",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "107": {
+    "id": "107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Onda de Purificação",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]107.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onda de Purificação",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "108": {
+    "id": "108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recarga Turbulenta",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]108.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recarga Turbulenta",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "109": {
+    "id": "109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rebobinar",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]109.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebobinar",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "110": {
+    "id": "110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poção de Remoção de Status",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "[cardslink]110.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poção de Remoção de Status",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "111": {
+    "id": "111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poção de Cura",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]111.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poção de Cura",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "112": {
+    "id": "112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medalhão da Centelha Absoluta",
+        "type": "Suporte",
+        "cost": "3",
+        "image": "[cardslink]112.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medalhão da Centelha Absoluta",
+    "type": "Suporte",
+    "cost": "3"
+  },
+  "113": {
+    "id": "113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tufão",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]113.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tufão",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "114": {
+    "id": "114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poção de Cura Maior",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]114.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poção de Cura Maior",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "115": {
+    "id": "115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buraco Negro",
+        "type": "Suporte",
+        "cost": "5",
+        "image": "[cardslink]115.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buraco Negro",
+    "type": "Suporte",
+    "cost": "5"
+  },
+  "116": {
+    "id": "116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teletransporte de Emergência",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]116.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teletransporte de Emergência",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "117": {
+    "id": "117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reencarnação Flamejante",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]117.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reencarnação Flamejante",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "118": {
+    "id": "118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "lterar probabilidades",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]118.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "lterar probabilidades",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "119": {
+    "id": "119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "cenda as Chamas do Milagre!",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]119.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "cenda as Chamas do Milagre!",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "120": {
+    "id": "120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monólito do Guardião",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]120.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monólito do Guardião",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "121": {
+    "id": "121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bloqueio",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]121.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bloqueio",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "122": {
+    "id": "122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escudo da Provocação",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "[cardslink]122.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escudo da Provocação",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "123": {
+    "id": "123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lâmina Esmeralda",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "[cardslink]123.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lâmina Esmeralda",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "124": {
+    "id": "124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Expansão de Vigor",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "[cardslink]124.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Expansão de Vigor",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "125": {
+    "id": "125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Correntes de Poder",
+        "type": "Equipamento",
+        "cost": "1",
+        "image": "[cardslink]125.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Correntes de Poder",
+    "type": "Equipamento",
+    "cost": "1"
+  },
+  "126": {
+    "id": "126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "rmadura de Fogo e Gelo",
+        "type": "Equipamento",
+        "cost": "2",
+        "image": "[cardslink]126.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "rmadura de Fogo e Gelo",
+    "type": "Equipamento",
+    "cost": "2"
+  },
+  "127": {
+    "id": "127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espaço",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]127.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espaço",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "128": {
+    "id": "128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vulcão",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]128.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulcão",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "129": {
+    "id": "129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caverna",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]129.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caverna",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "130": {
+    "id": "130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oceano",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]130.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oceano",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "131": {
+    "id": "131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Montanha",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]131.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Montanha",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "132": {
+    "id": "132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Céu",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]132.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Céu",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "133": {
+    "id": "133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ovo de Dragão",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]133.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ovo de Dragão",
+    "type": "Personagem",
+    "cost": "1" 
+  },
+  "134": {
+    "id": "134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lyra, a Duquesa da Corte do destino",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]134.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lyra, a Duquesa da Corte do destino",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "135": {
+    "id": "135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tezla, o Mecha-Cientista",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]135.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tezla, o Mecha-Cientista",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "B001": {
+    "id": "136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Helena, a Paladina Errante",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]136.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Helena, a Paladina Errante",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "B002": {
+    "id": "137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "kita, a Clériga Errante",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]137.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "kita, a Clériga Errante",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B003": {
+    "id": "138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Vermillion, o Gato Errante",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]138.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Vermillion, o Gato Errante",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B004": {
+    "id": "139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elise, A Paladina Errante",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]139.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elise, A Paladina Errante",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B005": {
+    "id": "140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Holivia, o Bárbaro Errante",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]140.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Holivia, o Bárbaro Errante",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "B006": {
+    "id": "141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windstorm",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]141.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windstorm",
+    "type": "Campo",
+    "cost": "2"
+  },  
+  "B007": {
+    "id": "142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Insígnia dos Errantes",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]142.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insígnia dos Errantes",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "B008": {
+    "id": "143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bola de Fogo",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]143.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bola de Fogo",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "B009": {
+    "id": "144",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cartão Vermelho",
+        "type": "Suporte",
+        "cost": "1",
+        "image": "[cardslink]144.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cartão Vermelho",
+    "type": "Suporte",
+    "cost": "1"
+  },
+  "B010": {
+    "id": "145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nova Horizon",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]145.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nova Horizon",
+    "type": "Campo",
+    "cost": "2"
+  },
+  "B011": {
+    "id": "146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dub",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]146.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dub",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "B012": {
+    "id": "147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Schwin-ha, A Bruxa do Lago",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]147.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Schwin-ha, A Bruxa do Lago",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "B013": {
+    "id": "149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gabriela, A Mãe das Guardiãs Valquírias",
+        "type": "Personagem",
+        "cost": "4",
+        "image": "[cardslink]149.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gabriela, A Mãe das Guardiãs Valquírias",
+    "type": "Personagem",
+    "cost": "4"
+  },
+  "B014": {
+    "id": "150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "liax, o Necromante Sombrio",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]150.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "liax, o Necromante Sombrio",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "B015": {
+    "id": "151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fullmetal Photon Striker",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]151.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fullmetal Photon Striker",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "B016": {
+    "id": "152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Broquinha",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]152.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Broquinha",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "B017": {
+    "id": "157",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mirabell, A Fada Eletrostática",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]157.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mirabell, A Fada Eletrostática",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "B018": {
+    "id": "160",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Onda Dub-nizadora",
+        "type": "Suporte",
+        "cost": "2",
+        "image": "[cardslink]160.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onda Dub-nizadora",
+    "type": "Suporte",
+    "cost": "2"
+  },
+  "B019": {
+    "id": "171",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shibaryx, A Aberração Genética",
+        "type": "Personagem",
+        "cost": "5",
+        "image": "[cardslink]171.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shibaryx, A Aberração Genética",
+    "type": "Personagem",
+    "cost": "5"
+  },
+  "B020": {
+    "id": "172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leaper, A Aberração Genética",
+        "type": "Personagem",
+        "cost": "1",
+        "image": "[cardslink]172.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leaper, A Aberração Genética",
+    "type": "Personagem",
+    "cost": "1"
+  },
+  "B021": {
+    "id": "173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Slasher, A Aberração Genética",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]173.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slasher, A Aberração Genética",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B022": {
+    "id": "174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duster, A Aberração Genética",
+        "type": "Personagem",
+        "cost": "2",
+        "image": "[cardslink]174.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duster, A Aberração Genética",
+    "type": "Personagem",
+    "cost": "2"
+  },
+  "B023": {
+    "id": "175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Staller, A Aberração Genética",
+        "type": "Personagem",
+        "cost": "3",
+        "image": "[cardslink]175.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Staller, A Aberração Genética",
+    "type": "Personagem",
+    "cost": "3"
+  },
+  "B024": {
+    "id": "176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "berração Genética em Quarentena",
+        "type": "Campo",
+        "cost": "2",
+        "image": "[cardslink]176.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "berração Genética em Quarentena",
+    "type": "Campo",
+    "cost": "2"
+  }
+}
