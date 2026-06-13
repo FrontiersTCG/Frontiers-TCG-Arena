@@ -1214,7 +1214,8 @@
     "name": "Sky Guardian - O Sentinela",
     "type": "Personagem",
     "cost": "5"
-  },"069A": {
+  },
+  "A069A": {
     "id": "069A",
     "isToken": false,
     "face": {
@@ -2398,7 +2399,7 @@
     "type": "Campo",
     "cost": "2"
   },  
-  "142": {
+  "A142": {
     "id": "142",
     "isToken": false,
     "face": {
